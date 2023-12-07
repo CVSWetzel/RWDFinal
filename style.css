@@ -1,0 +1,35 @@
+.container {
+   Display: flex;
+   flex-wrap: wrap;
+   margin: ;
+font-size: 10px;
+}
+
+*heading {
+    font-style: sans-serif;
+    display: center;
+
+
+}
+
+*body {
+    font-style: serif;
+    height: ;
+
+}
+
+
+.item {
+    background: 
+    border:fixed
+    color:fixed
+    padding:fixed
+    font-size:fixed
+    text-align:fixed
+
+}
+
+
+.layout {
+    
+}
